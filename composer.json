@@ -1,14 +1,5 @@
 {
-    "name": "cyb3rd4wn/nexmo-sender-server",
-    "description": "Nexmo Sender Server",
-    "type": "library",
-    "keywords": ["multi", "curl", "nexmo", "sender", "http"],
-    "authors": [
-        {
-            "name": "cyb3rd4wn",
-            "homepage": "http://cyb3rd4wn.github.io/",
-            "role": "Developer"
-        }
-    ],
-	"license": "Apache-2.0"
+  "require": {
+    "php": "^7.2.0"
+  }
 }
